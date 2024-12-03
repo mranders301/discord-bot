@@ -1,0 +1,11 @@
+{
+  "token": "",
+  "prefix": "/",
+  "staffRole": "Staff",
+  "clientId": "1312831267720659035",
+  "guildId": "1312831149218861156",
+  "logsChannelId": "1313169437473505371",
+  "ticketChannelTimeout": 360000000,  
+  "cooldownTime": 600000  
+}
+
